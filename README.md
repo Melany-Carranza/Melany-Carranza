@@ -1,5 +1,6 @@
 # 💫 About Me:
-Soy estudiante de desarrollo de software <br>Enfocado en aprender a crear, diseñar, probar y mantener aplicaciones, sistemas y herramientas digitales mediante el uso de lenguajes de programación.<br>Meta: Consolidarme como desarrollador de software profesional.
+Soy estudiante de Desarrollo de Software motivado por el constante interés en la tecnología, la maquetación web adaptativa, la resolución de problemas mediante lógica de programación y el diseño visual de interfaces. Actualmente busco aplicar buenas prácticas y escribir código limpio en proyectos personales.
+Me enfoco en el aprendizaje continuo y en la exploración de nuevas herramientas para optimizar cada paso del proceso de desarrollo. Mi meta es seguir construyendo proyectos cada vez más sólidos, adquiriendo experiencia práctica y preparándome para colaborar en entornos de trabajo reales.
 
 
 ## 🌐 Socials:
