@@ -1,7 +1,8 @@
 # 💫 About Me:
-Soy estudiante de Desarrollo de Software motivado por el constante interés en la tecnología, la maquetación web adaptativa, la resolución de problemas mediante lógica de programación y el diseño visual de interfaces. Actualmente busco aplicar buenas prácticas y escribir código limpio en proyectos personales.
-Me enfoco en el aprendizaje continuo y en la exploración de nuevas herramientas para optimizar cada paso del proceso de desarrollo. Mi meta es seguir construyendo proyectos cada vez más sólidos, adquiriendo experiencia práctica y preparándome para colaborar en entornos de trabajo reales.
+Soy estudiante de Desarrollo de Software motivado por un constante interés en la tecnología, la maquetación web adaptativa, la resolución de problemas mediante lógica de programación y el diseño visual de interfaces.
+Mi enfoque principal está en aplicar buenas prácticas para escribir código limpio en mis proyectos personales, gestionando el control de versiones con Git y perfeccionando cada detalle del proceso para construir productos digitales funcionales y atractivos.
 
+Actualmente continúo expandiendo mis conocimientos en desarrollo digital, explorando la integración de aprendizaje automático en proyectos interactivos y participando en iniciativas de código abierto . Mantengo una mentalidad de aprendizaje continuo para adaptarme a nuevas herramientas, optimizar mi flujo de trabajo y colaborar en proyectos reales que generen un impacto positivo.
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:5785638@clases.edu.sv) 
